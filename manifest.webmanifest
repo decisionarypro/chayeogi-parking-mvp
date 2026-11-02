@@ -1,0 +1,14 @@
+{
+  "name": "차여기 — 주차 위치 기록",
+  "short_name": "차여기",
+  "description": "주차 위치를 찍고, 돌아올 때 찾으세요.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fb",
+  "theme_color": "#f7f8fb",
+  "lang": "ko",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
