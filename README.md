@@ -16,7 +16,7 @@
 ### GitHub Pages (권장)
 
 1. GitHub의 **새 저장소**를 만든 다음 압축파일 내부의 **파일과 폴더**를 저장소 루트에 업로드합니다. (ZIP 자체만 올리면 안 됩니다.)
-2. 저장소 **Settings → Pages → Build and deployment → Deploy from a branch → main / (root) → Save**를 선택합니다.
+2. 저장소 **Settings → Pages → Build and deployment → Source: GitHub Actions**를 선택합니다. 업로드된 `.github/workflows/pages.yml`이 배포를 담당합니다. 최초 선택 후 **Actions → Deploy Chayeogi to GitHub Pages → Run workflow**로 한 번 실행하세요.
 3. 배포된 HTTPS 주소를 휴대폰 Safari 또는 Chrome으로 접속합니다.
 4. 홈 화면에 추가해 카메라·기록 흐름을 테스트합니다.
 
